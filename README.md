@@ -1,54 +1,84 @@
-<h1 align="center">Hi, I'm Farokh 👋</h1>
-<h3 align="center">Web Developer (Frontend/Backend) turning ideas into reliable, maintainable software</h3>
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Farokhadz+%F0%9F%91%8B;Web+Developer+%7C+Frontend+%26+Backend;Turning+Ideas+Into+Products+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
-<p align="center">
-  I'm a software engineer who loves learning by building real-world projects — from web apps to machine learning experiments.
-</p>
+<br/>
 
----
+<table>
+<tr>
+<td width="60%">
 
-### 🧰 Tech Stack
+### 👨‍💻 About Me
+
+- 🌐 I'm Farokhadz, a Web Developer building frontend and backend projects
+- 🚀 I enjoy turning ideas into real, working products
+- 🎯 I care about clean UI, solid fundamentals, and writing code the right way
+- 📚 Currently learning SQL and deepening my backend skills
+- 🔭 Recent focus: building **AlbumScope**, a music discovery app
+- ⚡ I believe in learning by building — one project at a time
+
+</td>
+<td width="40%" align="center">
+
+<!-- 
+  اینجا یه تصویر یا GIF مربوط به کدنویسی بذار.
+  می‌تونی از سایت‌هایی مثل giphy.com سرچ کنی "coding" یا "programming"
+  و لینک مستقیم gif رو همینجا جایگزین کن.
+-->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="260" alt="coding gif"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Add/remove badges below to match your real stack -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
+<br/>
 
-### 🚀 Featured Projects
-
-**[AlbumScope](https://github.com/Farrokhadz/albumscope-app)**
-Search any artist and explore their albums with cover art and release years. Built with vanilla JS, focused on real-world REST API integration and async data handling.
-
-**[Flower Species Classifier](https://github.com/Farrokhadz/oxford102-flower-classifier)**
-Deep learning model classifying 102 flower species using Transfer Learning (ResNet50 / MobileNetV2 / EfficientNetB0).
-
-**[Personal Portfolio](https://github.com/Farrokhadz/farokhadz-portfolio)**
-My personal portfolio website showcasing projects, skills, and contact info.
-
----
-
-### 📊 GitHub Stats
+## 🔗 Connect with Me
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Farrokhadz&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Farrokhadz" height="165" />
+  <a href="mailto:farrokhandarz84@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://t.me/Farokhadz">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="#">
+    <!-- TODO: وقتی لینکدین ساختی، لینک بالا رو با آدرس واقعی پروفایلت جایگزین کن -->
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Farrokhadz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+<br/>
 
-### 📫 Let's Connect
+## 📊 GitHub Stats
 
 <p align="left">
-  <!-- Replace # with your real links -->
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/farokhh.adz"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Farrokhadz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Farrokhadz&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farrokhadz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Farrokhadz&theme=tokyo-night&hide_border=true" width="100%"/>
 </p>
