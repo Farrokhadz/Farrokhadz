@@ -10,13 +10,11 @@
 
 ### 👨‍💻 About Me
 
-- 🌐 I'm Farokhadz, a Web Developer building frontend and backend projects
-- 🚀 I enjoy turning ideas into real, working products
-- 🎯 I care about clean UI, solid fundamentals, and writing code the right way
-- 📚 Currently learning SQL and deepening my backend skills
-- 🔭 Recent focus: building **AlbumScope**, a music discovery app
-- ⚡ I believe in learning by building — one project at a time
-
+- 🌐 Web Developer working across frontend and backend
+- 🔌 I love seeing how different pieces of an app connect and talk to each other
+- 📡 Fetching, processing, and making sense of data is what I enjoy most
+- 🚀 Aiming to grow as a full-stack developer, with a strong focus on how things work behind the scenes
+- 
 </td>
 <td width="40%" align="center">
 
