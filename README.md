@@ -26,8 +26,7 @@
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,tailwind,mysql,vercel,git,vscode" alt="Tech stack" />
-  <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="pnpm" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,tailwind,mysql,vercel,git,npm,vscode" alt="Tech stack" />
 </p>
 
 ## Get in Touch
