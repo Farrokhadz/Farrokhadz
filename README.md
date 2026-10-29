@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.farokhadz.ir/"><img src="https://img.shields.io/badge/Website-farokhadz.ir-1f2328?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://t.me/Farokhadz"><img src="https://img.shields.io/badge/Telegram-@Farokhadz-1f2328?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/farokhadzz"><img src="https://img.shields.io/badge/Channel-@farokhadzz-1f2328?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Channel" /></a>
   <a href="https://www.instagram.com/farokhh.adz"><img src="https://img.shields.io/badge/Instagram-farokhh.adz-1f2328?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:farrokhandarz84@gmail.com"><img src="https://img.shields.io/badge/Email-farrokhandarz84@gmail.com-1f2328?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -26,11 +27,13 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,tailwind,mysql,vercel,git,vscode" alt="Tech stack" />
+  <img src="https://cdn.simpleicons.org/pnpm/F69220" alt="pnpm" width="48" height="48" />
 </p>
 
 ## Get in Touch
 
 - Website: [farokhadz.ir](https://www.farokhadz.ir/)
 - Telegram: [@Farokhadz](https://t.me/Farokhadz)
+- Telegram Channel: [@farokhadzz](https://t.me/farokhadzz)
 - Instagram: [@farokhh.adz](https://www.instagram.com/farokhh.adz)
 - Email: [farrokhandarz84@gmail.com](mailto:farrokhandarz84@gmail.com)
