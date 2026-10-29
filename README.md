@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Computer Science
-- 🔭 Currently building full stack web applications with React and modern tooling
-- 🧠 I enjoy solving algorithmic problems and understanding how things work under the hood
-- 🌱 Always learning: currently improving my skills in backend development and system design
-- 🌐 Check out my portfolio and projects at **[farokhadz.ir](https://www.farokhadz.ir/)**
+- Studying Computer Science
+- Currently building full stack web applications with React and modern tooling
+- I enjoy solving algorithmic problems and understanding how things work under the hood
+- Always learning: currently improving my skills in backend development and system design
+- Check out my portfolio and projects at **[farokhadz.ir](https://www.farokhadz.ir/)**
 
 ## 🛠️ Tech Stack
 
