@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Studying Computer Science
 - Currently building full stack web applications with React and modern tooling
@@ -19,13 +19,12 @@
 - Always learning: currently improving my skills in backend development and system design
 - Check out my portfolio and projects at **[farokhadz.ir](https://www.farokhadz.ir/)**
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,tailwind,mysql,vercel,git,vscode" alt="Tech stack" />
 </p>
 
-## 📫 Get in Touch
+## Get in Touch
 
-- 🌐 Website: [farokhadz.ir](https://www.farokhadz.ir/)
-- 💬 Feel free to open an issue or reach out through my website if you'd like to collaborate!
+- 🌐 Website: [farokhadz.ir](https://www.farokhadz.ir/
