@@ -32,6 +32,5 @@
 
 - Website: [farokhadz.ir](https://www.farokhadz.ir/)
 - Telegram: [@Farokhadz](https://t.me/Farokhadz)
-- Telegram Channel: [@farokhadzz](https://t.me/farokhadzz)
 - Instagram: [@farokhh.adz](https://www.instagram.com/farokhh.adz)
 - Email: [farrokhandarz84@gmail.com](mailto:farrokhandarz84@gmail.com)
